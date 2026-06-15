@@ -1,0 +1,351 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\lenovo\Documents\Proyectos\Lab8Hilt\Lab8Hilt\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\lenovo\Documents\Proyectos\Lab8Hilt\Lab8Hilt\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\lenovo\Documents\Proyectos\Lab8Hilt\Lab8Hilt\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\lenovo\Documents\Proyectos\Lab8Hilt\Lab8Hilt\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.hilt:hilt-navigation-compose:1.2.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\cba36dbabea2130faeb1b56366d6b242\transformed\hilt-navigation-compose-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.hilt:hilt-navigation:1.2.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\e232a0f8cf63d5246c9aa03c18d5b41c\transformed\hilt-navigation-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.dagger:hilt-android:2.52] C:\Users\lenovo\.gradle\caches\8.9\transforms\8bf4c55a3c26ce91119b0897850c32af\transformed\hilt-android-2.52\AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.fragment:fragment:1.5.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\7e751674978c2ed7573e412f8613bb50\transformed\fragment-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-compose:2.5.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\42d65de7c593ab2353f9c3323c509219\transformed\navigation-compose-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material3:material3-android:1.3.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\a1f2db3d81f2bd476e5405d86741b5bf\transformed\material3-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\21339c6c5389dc1ad0ebc416f245afc8\transformed\material-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\0a1a66633376b0c2f9c987ba6c262995\transformed\animation-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\acf7a718e2517d5b83f4aff982f4f1b2\transformed\material-ripple-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\896e8d4c805ce31de84ba0511fe0083b\transformed\animation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\108fc8fc3367bad1ae77f67f1362374c\transformed\foundation-layout-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\a104a37fd0549b087a2d835f2afbe7fa\transformed\foundation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\02da1fe58102df649beb6bd749bc57b9\transformed\ui-tooling-data-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\c6a78b77d069c3b13df2ef2547a4a1a8\transformed\ui-unit-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\0443935c5a9ecd8d5886bcdbc5ff3a66\transformed\ui-geometry-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\c447611680f80c0fcc2bd67d24e7f3c7\transformed\ui-util-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\ac82c5eed80120e70dccd5396f874d50\transformed\ui-text-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\f1d36077a84d0bf7b36198c924e6846c\transformed\ui-tooling-preview-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\d5e7b1310770d88ecdf6ac7023eefef7\transformed\ui-graphics-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\a3d4f26446398757a3f8b1ea293aa507\transformed\ui-tooling-release\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\cee83d92e8acd9f49df46fcbc1bc5e97\transformed\navigation-runtime-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\0f696fa868481eeb1e3eacf0a3ccae76\transformed\navigation-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\4ae02043426df642b8fe501079dbecd4\transformed\navigation-common-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\b830d23ea5b62e646ae234d5c8d9c0a6\transformed\navigation-common-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\bc4c7c5f5b2293238995e4966b176dba\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\22f21c2a07d6a3ce1b0d195e2f1fcac0\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\9847a1ec5a9e438ed0187a4f468e295a\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\d31b8c90f2eb271876263fa76800ed02\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\lenovo\.gradle\caches\8.9\transforms\6fc67eeba3d5cc017a3244674b94034f\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\lenovo\.gradle\caches\8.9\transforms\d9fea3f2de6024800f3d9afa190c51f9\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] C:\Users\lenovo\.gradle\caches\8.9\transforms\049265585e7e2ad9189bf806a6c0ca4c\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\lenovo\.gradle\caches\8.9\transforms\8b836466fdbbf7c3ea1e2a7128d36b04\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\lenovo\.gradle\caches\8.9\transforms\4d088fbcfbd4488421ac855daa71d749\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\lenovo\.gradle\caches\8.9\transforms\81457ae8abd78144297bed23df900370\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\lenovo\.gradle\caches\8.9\transforms\0b74405ddff4c3d30accaf276600a82d\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\lenovo\.gradle\caches\8.9\transforms\aaaecf75974180d2f1caeb597ff244de\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\lenovo\.gradle\caches\8.9\transforms\235b66eb775d980e422bfe472c8b5431\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\lenovo\.gradle\caches\8.9\transforms\7903038bae4e3badafb36dff5faeb0b6\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\lenovo\.gradle\caches\8.9\transforms\d77e6c98350b9c2fa609eafb11f66e83\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.7] C:\Users\lenovo\.gradle\caches\8.9\transforms\ae9ff7ef8bc99d04ea5191300d5378bb\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\7e9826e37da0a515c0555d17e859bdca\transformed\material-icons-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\1097613881d80cfde598caae6ce16dab\transformed\ui-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.9.3] C:\Users\lenovo\.gradle\caches\8.9\transforms\1453d87ba1c19c64b54043e7593c6809\transformed\activity-ktx-1.9.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.9.3] C:\Users\lenovo\.gradle\caches\8.9\transforms\7c0cd5e0395a55db6ae5b055ac512854\transformed\activity-compose-1.9.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\lenovo\.gradle\caches\8.9\transforms\3239adaeda824c862b8e74af8d27821d\transformed\activity-1.9.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\3b4cabfcd951336c6604e03c7536ef74\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\af7139c590a1d74174918bff66c89f11\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\14623bbf10082b4d237ca0ff0438beba\transformed\graphics-path-1.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\ec513d849d5a85ad4d50853efdda1314\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.15.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\cc1dcce67c4459d29a1e331be9838b06\transformed\core-1.15.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\13ae43b2a8f4fd1abe66cac3b671fa27\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\204da693e94836fe29b6d0e2394797cf\transformed\core-ktx-1.15.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\7e39ad79ef4a60ac1c3f4e2cbb8cc679\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\370fdf2f2ae6d504607ed19fb9150c82\transformed\profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\45703a9acd6276d7d9aa976e285aba01\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\44a0911d6cbc0137105ece5b8e7a1e68\transformed\tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\b22215602fecf4b29e61596f90393869\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.compose.runtime:runtime-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\adf62d6bbbe970eb26de44b523c6d38e\transformed\runtime-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\9961f2cd51793fd2bf51b9755c6a0ccb\transformed\runtime-saveable-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\719b18ad67474516afd1e4d25d97e88c\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\fef68db2657c4777b86d402b819cfe3a\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.52] C:\Users\lenovo\.gradle\caches\8.9\transforms\87decd2901a9ff995a2169da655bdc16\transformed\dagger-lint-aar-2.52\AndroidManifest.xml:16:1-19:12
+	package
+		INJECTED from C:\Users\lenovo\Documents\Proyectos\Lab8Hilt\Lab8Hilt\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\lenovo\Documents\Proyectos\Lab8Hilt\Lab8Hilt\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\lenovo\Documents\Proyectos\Lab8Hilt\Lab8Hilt\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\lenovo\Documents\Proyectos\Lab8Hilt\Lab8Hilt\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\lenovo\Documents\Proyectos\Lab8Hilt\Lab8Hilt\app\src\main\AndroidManifest.xml:4:5-20:19
+INJECTED from C:\Users\lenovo\Documents\Proyectos\Lab8Hilt\Lab8Hilt\app\src\main\AndroidManifest.xml:4:5-20:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\a3d4f26446398757a3f8b1ea293aa507\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\a3d4f26446398757a3f8b1ea293aa507\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\d31b8c90f2eb271876263fa76800ed02\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\d31b8c90f2eb271876263fa76800ed02\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\lenovo\.gradle\caches\8.9\transforms\6fc67eeba3d5cc017a3244674b94034f\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\lenovo\.gradle\caches\8.9\transforms\6fc67eeba3d5cc017a3244674b94034f\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.15.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\cc1dcce67c4459d29a1e331be9838b06\transformed\core-1.15.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.15.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\cc1dcce67c4459d29a1e331be9838b06\transformed\core-1.15.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\370fdf2f2ae6d504607ed19fb9150c82\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\370fdf2f2ae6d504607ed19fb9150c82\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\45703a9acd6276d7d9aa976e285aba01\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\45703a9acd6276d7d9aa976e285aba01\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\b22215602fecf4b29e61596f90393869\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\b22215602fecf4b29e61596f90393869\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\lenovo\Documents\Proyectos\Lab8Hilt\Lab8Hilt\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.15.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\cc1dcce67c4459d29a1e331be9838b06\transformed\core-1.15.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\lenovo\Documents\Proyectos\Lab8Hilt\Lab8Hilt\app\src\main\AndroidManifest.xml:8:9-35
+	android:label
+		ADDED from C:\Users\lenovo\Documents\Proyectos\Lab8Hilt\Lab8Hilt\app\src\main\AndroidManifest.xml:7:9-34
+	android:allowBackup
+		ADDED from C:\Users\lenovo\Documents\Proyectos\Lab8Hilt\Lab8Hilt\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\lenovo\Documents\Proyectos\Lab8Hilt\Lab8Hilt\app\src\main\AndroidManifest.xml:9:9-46
+	android:name
+		ADDED from C:\Users\lenovo\Documents\Proyectos\Lab8Hilt\Lab8Hilt\app\src\main\AndroidManifest.xml:5:9-38
+activity#com.lab8.hiltapp.MainActivity
+ADDED from C:\Users\lenovo\Documents\Proyectos\Lab8Hilt\Lab8Hilt\app\src\main\AndroidManifest.xml:11:9-18:20
+	android:exported
+		ADDED from C:\Users\lenovo\Documents\Proyectos\Lab8Hilt\Lab8Hilt\app\src\main\AndroidManifest.xml:13:13-36
+	android:name
+		ADDED from C:\Users\lenovo\Documents\Proyectos\Lab8Hilt\Lab8Hilt\app\src\main\AndroidManifest.xml:12:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\lenovo\Documents\Proyectos\Lab8Hilt\Lab8Hilt\app\src\main\AndroidManifest.xml:14:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\lenovo\Documents\Proyectos\Lab8Hilt\Lab8Hilt\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\lenovo\Documents\Proyectos\Lab8Hilt\Lab8Hilt\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\lenovo\Documents\Proyectos\Lab8Hilt\Lab8Hilt\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\lenovo\Documents\Proyectos\Lab8Hilt\Lab8Hilt\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\lenovo\Documents\Proyectos\Lab8Hilt\Lab8Hilt\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\lenovo\Documents\Proyectos\Lab8Hilt\Lab8Hilt\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\lenovo\Documents\Proyectos\Lab8Hilt\Lab8Hilt\app\src\main\AndroidManifest.xml
+MERGED from [androidx.hilt:hilt-navigation-compose:1.2.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\cba36dbabea2130faeb1b56366d6b242\transformed\hilt-navigation-compose-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation-compose:1.2.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\cba36dbabea2130faeb1b56366d6b242\transformed\hilt-navigation-compose-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation:1.2.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\e232a0f8cf63d5246c9aa03c18d5b41c\transformed\hilt-navigation-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation:1.2.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\e232a0f8cf63d5246c9aa03c18d5b41c\transformed\hilt-navigation-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.dagger:hilt-android:2.52] C:\Users\lenovo\.gradle\caches\8.9\transforms\8bf4c55a3c26ce91119b0897850c32af\transformed\hilt-android-2.52\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.52] C:\Users\lenovo\.gradle\caches\8.9\transforms\8bf4c55a3c26ce91119b0897850c32af\transformed\hilt-android-2.52\AndroidManifest.xml:18:3-42
+MERGED from [androidx.fragment:fragment:1.5.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\7e751674978c2ed7573e412f8613bb50\transformed\fragment-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\7e751674978c2ed7573e412f8613bb50\transformed\fragment-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-compose:2.5.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\42d65de7c593ab2353f9c3323c509219\transformed\navigation-compose-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-compose:2.5.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\42d65de7c593ab2353f9c3323c509219\transformed\navigation-compose-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material3:material3-android:1.3.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\a1f2db3d81f2bd476e5405d86741b5bf\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\a1f2db3d81f2bd476e5405d86741b5bf\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\21339c6c5389dc1ad0ebc416f245afc8\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\21339c6c5389dc1ad0ebc416f245afc8\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\0a1a66633376b0c2f9c987ba6c262995\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\0a1a66633376b0c2f9c987ba6c262995\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\acf7a718e2517d5b83f4aff982f4f1b2\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\acf7a718e2517d5b83f4aff982f4f1b2\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\896e8d4c805ce31de84ba0511fe0083b\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\896e8d4c805ce31de84ba0511fe0083b\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\108fc8fc3367bad1ae77f67f1362374c\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\108fc8fc3367bad1ae77f67f1362374c\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\a104a37fd0549b087a2d835f2afbe7fa\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\a104a37fd0549b087a2d835f2afbe7fa\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\02da1fe58102df649beb6bd749bc57b9\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\02da1fe58102df649beb6bd749bc57b9\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\c6a78b77d069c3b13df2ef2547a4a1a8\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\c6a78b77d069c3b13df2ef2547a4a1a8\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\0443935c5a9ecd8d5886bcdbc5ff3a66\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\0443935c5a9ecd8d5886bcdbc5ff3a66\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\c447611680f80c0fcc2bd67d24e7f3c7\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\c447611680f80c0fcc2bd67d24e7f3c7\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\ac82c5eed80120e70dccd5396f874d50\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\ac82c5eed80120e70dccd5396f874d50\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\f1d36077a84d0bf7b36198c924e6846c\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\f1d36077a84d0bf7b36198c924e6846c\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\d5e7b1310770d88ecdf6ac7023eefef7\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\d5e7b1310770d88ecdf6ac7023eefef7\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\a3d4f26446398757a3f8b1ea293aa507\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\a3d4f26446398757a3f8b1ea293aa507\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\cee83d92e8acd9f49df46fcbc1bc5e97\transformed\navigation-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\cee83d92e8acd9f49df46fcbc1bc5e97\transformed\navigation-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\0f696fa868481eeb1e3eacf0a3ccae76\transformed\navigation-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\0f696fa868481eeb1e3eacf0a3ccae76\transformed\navigation-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\4ae02043426df642b8fe501079dbecd4\transformed\navigation-common-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\4ae02043426df642b8fe501079dbecd4\transformed\navigation-common-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\b830d23ea5b62e646ae234d5c8d9c0a6\transformed\navigation-common-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\b830d23ea5b62e646ae234d5c8d9c0a6\transformed\navigation-common-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\bc4c7c5f5b2293238995e4966b176dba\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\bc4c7c5f5b2293238995e4966b176dba\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\22f21c2a07d6a3ce1b0d195e2f1fcac0\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\22f21c2a07d6a3ce1b0d195e2f1fcac0\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\9847a1ec5a9e438ed0187a4f468e295a\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\9847a1ec5a9e438ed0187a4f468e295a\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\d31b8c90f2eb271876263fa76800ed02\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\d31b8c90f2eb271876263fa76800ed02\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\lenovo\.gradle\caches\8.9\transforms\6fc67eeba3d5cc017a3244674b94034f\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\lenovo\.gradle\caches\8.9\transforms\6fc67eeba3d5cc017a3244674b94034f\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\lenovo\.gradle\caches\8.9\transforms\d9fea3f2de6024800f3d9afa190c51f9\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\lenovo\.gradle\caches\8.9\transforms\d9fea3f2de6024800f3d9afa190c51f9\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] C:\Users\lenovo\.gradle\caches\8.9\transforms\049265585e7e2ad9189bf806a6c0ca4c\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.7] C:\Users\lenovo\.gradle\caches\8.9\transforms\049265585e7e2ad9189bf806a6c0ca4c\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\lenovo\.gradle\caches\8.9\transforms\8b836466fdbbf7c3ea1e2a7128d36b04\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\lenovo\.gradle\caches\8.9\transforms\8b836466fdbbf7c3ea1e2a7128d36b04\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\lenovo\.gradle\caches\8.9\transforms\4d088fbcfbd4488421ac855daa71d749\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\lenovo\.gradle\caches\8.9\transforms\4d088fbcfbd4488421ac855daa71d749\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\lenovo\.gradle\caches\8.9\transforms\81457ae8abd78144297bed23df900370\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\lenovo\.gradle\caches\8.9\transforms\81457ae8abd78144297bed23df900370\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\lenovo\.gradle\caches\8.9\transforms\0b74405ddff4c3d30accaf276600a82d\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\lenovo\.gradle\caches\8.9\transforms\0b74405ddff4c3d30accaf276600a82d\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\lenovo\.gradle\caches\8.9\transforms\aaaecf75974180d2f1caeb597ff244de\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\lenovo\.gradle\caches\8.9\transforms\aaaecf75974180d2f1caeb597ff244de\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\lenovo\.gradle\caches\8.9\transforms\235b66eb775d980e422bfe472c8b5431\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\lenovo\.gradle\caches\8.9\transforms\235b66eb775d980e422bfe472c8b5431\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\lenovo\.gradle\caches\8.9\transforms\7903038bae4e3badafb36dff5faeb0b6\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\lenovo\.gradle\caches\8.9\transforms\7903038bae4e3badafb36dff5faeb0b6\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\lenovo\.gradle\caches\8.9\transforms\d77e6c98350b9c2fa609eafb11f66e83\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\lenovo\.gradle\caches\8.9\transforms\d77e6c98350b9c2fa609eafb11f66e83\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.7] C:\Users\lenovo\.gradle\caches\8.9\transforms\ae9ff7ef8bc99d04ea5191300d5378bb\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.7] C:\Users\lenovo\.gradle\caches\8.9\transforms\ae9ff7ef8bc99d04ea5191300d5378bb\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\7e9826e37da0a515c0555d17e859bdca\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\7e9826e37da0a515c0555d17e859bdca\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\1097613881d80cfde598caae6ce16dab\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\1097613881d80cfde598caae6ce16dab\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.3] C:\Users\lenovo\.gradle\caches\8.9\transforms\1453d87ba1c19c64b54043e7593c6809\transformed\activity-ktx-1.9.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.3] C:\Users\lenovo\.gradle\caches\8.9\transforms\1453d87ba1c19c64b54043e7593c6809\transformed\activity-ktx-1.9.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.3] C:\Users\lenovo\.gradle\caches\8.9\transforms\7c0cd5e0395a55db6ae5b055ac512854\transformed\activity-compose-1.9.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.3] C:\Users\lenovo\.gradle\caches\8.9\transforms\7c0cd5e0395a55db6ae5b055ac512854\transformed\activity-compose-1.9.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\lenovo\.gradle\caches\8.9\transforms\3239adaeda824c862b8e74af8d27821d\transformed\activity-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\lenovo\.gradle\caches\8.9\transforms\3239adaeda824c862b8e74af8d27821d\transformed\activity-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\3b4cabfcd951336c6604e03c7536ef74\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\3b4cabfcd951336c6604e03c7536ef74\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\af7139c590a1d74174918bff66c89f11\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\af7139c590a1d74174918bff66c89f11\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\14623bbf10082b4d237ca0ff0438beba\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\14623bbf10082b4d237ca0ff0438beba\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\ec513d849d5a85ad4d50853efdda1314\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\ec513d849d5a85ad4d50853efdda1314\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.15.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\cc1dcce67c4459d29a1e331be9838b06\transformed\core-1.15.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.15.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\cc1dcce67c4459d29a1e331be9838b06\transformed\core-1.15.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\13ae43b2a8f4fd1abe66cac3b671fa27\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\13ae43b2a8f4fd1abe66cac3b671fa27\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\204da693e94836fe29b6d0e2394797cf\transformed\core-ktx-1.15.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.15.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\204da693e94836fe29b6d0e2394797cf\transformed\core-ktx-1.15.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\7e39ad79ef4a60ac1c3f4e2cbb8cc679\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\7e39ad79ef4a60ac1c3f4e2cbb8cc679\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\370fdf2f2ae6d504607ed19fb9150c82\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\370fdf2f2ae6d504607ed19fb9150c82\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\45703a9acd6276d7d9aa976e285aba01\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\45703a9acd6276d7d9aa976e285aba01\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\44a0911d6cbc0137105ece5b8e7a1e68\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\44a0911d6cbc0137105ece5b8e7a1e68\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\b22215602fecf4b29e61596f90393869\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\b22215602fecf4b29e61596f90393869\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.runtime:runtime-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\adf62d6bbbe970eb26de44b523c6d38e\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\adf62d6bbbe970eb26de44b523c6d38e\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\9961f2cd51793fd2bf51b9755c6a0ccb\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\9961f2cd51793fd2bf51b9755c6a0ccb\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\719b18ad67474516afd1e4d25d97e88c\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\719b18ad67474516afd1e4d25d97e88c\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\fef68db2657c4777b86d402b819cfe3a\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\fef68db2657c4777b86d402b819cfe3a\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.dagger:dagger-lint-aar:2.52] C:\Users\lenovo\.gradle\caches\8.9\transforms\87decd2901a9ff995a2169da655bdc16\transformed\dagger-lint-aar-2.52\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.52] C:\Users\lenovo\.gradle\caches\8.9\transforms\87decd2901a9ff995a2169da655bdc16\transformed\dagger-lint-aar-2.52\AndroidManifest.xml:18:3-42
+	android:targetSdkVersion
+		INJECTED from C:\Users\lenovo\Documents\Proyectos\Lab8Hilt\Lab8Hilt\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\lenovo\Documents\Proyectos\Lab8Hilt\Lab8Hilt\app\src\main\AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\a3d4f26446398757a3f8b1ea293aa507\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\a3d4f26446398757a3f8b1ea293aa507\transformed\ui-tooling-release\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.6] C:\Users\lenovo\.gradle\caches\8.9\transforms\a3d4f26446398757a3f8b1ea293aa507\transformed\ui-tooling-release\AndroidManifest.xml:24:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\d31b8c90f2eb271876263fa76800ed02\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\lenovo\.gradle\caches\8.9\transforms\6fc67eeba3d5cc017a3244674b94034f\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\lenovo\.gradle\caches\8.9\transforms\6fc67eeba3d5cc017a3244674b94034f\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\370fdf2f2ae6d504607ed19fb9150c82\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\370fdf2f2ae6d504607ed19fb9150c82\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\45703a9acd6276d7d9aa976e285aba01\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\45703a9acd6276d7d9aa976e285aba01\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\d31b8c90f2eb271876263fa76800ed02\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\d31b8c90f2eb271876263fa76800ed02\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\d31b8c90f2eb271876263fa76800ed02\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\d31b8c90f2eb271876263fa76800ed02\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\d31b8c90f2eb271876263fa76800ed02\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\d31b8c90f2eb271876263fa76800ed02\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\d31b8c90f2eb271876263fa76800ed02\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\lenovo\.gradle\caches\8.9\transforms\6fc67eeba3d5cc017a3244674b94034f\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\lenovo\.gradle\caches\8.9\transforms\6fc67eeba3d5cc017a3244674b94034f\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\lenovo\.gradle\caches\8.9\transforms\6fc67eeba3d5cc017a3244674b94034f\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\cc1dcce67c4459d29a1e331be9838b06\transformed\core-1.15.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\cc1dcce67c4459d29a1e331be9838b06\transformed\core-1.15.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\cc1dcce67c4459d29a1e331be9838b06\transformed\core-1.15.0\AndroidManifest.xml:23:9-81
+permission#com.lab8.hiltapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\cc1dcce67c4459d29a1e331be9838b06\transformed\core-1.15.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.15.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\cc1dcce67c4459d29a1e331be9838b06\transformed\core-1.15.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\cc1dcce67c4459d29a1e331be9838b06\transformed\core-1.15.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\cc1dcce67c4459d29a1e331be9838b06\transformed\core-1.15.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\cc1dcce67c4459d29a1e331be9838b06\transformed\core-1.15.0\AndroidManifest.xml:26:22-94
+uses-permission#com.lab8.hiltapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.15.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\cc1dcce67c4459d29a1e331be9838b06\transformed\core-1.15.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.15.0] C:\Users\lenovo\.gradle\caches\8.9\transforms\cc1dcce67c4459d29a1e331be9838b06\transformed\core-1.15.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\370fdf2f2ae6d504607ed19fb9150c82\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\370fdf2f2ae6d504607ed19fb9150c82\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\370fdf2f2ae6d504607ed19fb9150c82\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\370fdf2f2ae6d504607ed19fb9150c82\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\370fdf2f2ae6d504607ed19fb9150c82\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\370fdf2f2ae6d504607ed19fb9150c82\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\370fdf2f2ae6d504607ed19fb9150c82\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\370fdf2f2ae6d504607ed19fb9150c82\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\370fdf2f2ae6d504607ed19fb9150c82\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\370fdf2f2ae6d504607ed19fb9150c82\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\370fdf2f2ae6d504607ed19fb9150c82\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\370fdf2f2ae6d504607ed19fb9150c82\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\370fdf2f2ae6d504607ed19fb9150c82\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\370fdf2f2ae6d504607ed19fb9150c82\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\370fdf2f2ae6d504607ed19fb9150c82\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\370fdf2f2ae6d504607ed19fb9150c82\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\370fdf2f2ae6d504607ed19fb9150c82\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\370fdf2f2ae6d504607ed19fb9150c82\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\370fdf2f2ae6d504607ed19fb9150c82\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\370fdf2f2ae6d504607ed19fb9150c82\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\lenovo\.gradle\caches\8.9\transforms\370fdf2f2ae6d504607ed19fb9150c82\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
